@@ -1,0 +1,1 @@
+Day 1: What is Python? What is pip? What are modules? And simple programs to kickstart python.
