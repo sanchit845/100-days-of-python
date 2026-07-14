@@ -9,3 +9,5 @@ Day 4: Lists, how to make lists, functions of lists.
 Day 5: Tuple, how to make a tuple, functions of tuple.
 
 Day 4&5 : Practice set for Lists and Tuples.
+
+Day 6: Dictionaries, properties of dictionaries, methods of dictionaries
