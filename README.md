@@ -15,3 +15,5 @@ Day 6: Dictionaries, properties of dictionaries, methods of dictionaries
 Day 7: Sets, practice set for dictionaries and sets.
 
 Day 8: Conditional Expressions, Practice Set
+
+Day 9: Loops, For loop, While loop, Practice set
