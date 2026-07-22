@@ -19,3 +19,5 @@ Day 8: Conditional Expressions, Practice Set
 Day 9: Loops, For loop, While loop, Practice set
 
 Day 10: Functions and Recursions, Practice Set
+
+Day 11: Rock, Paper, Scissors game
