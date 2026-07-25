@@ -21,3 +21,5 @@ Day 9: Loops, For loop, While loop, Practice set
 Day 10: Functions and Recursions, Practice Set
 
 Day 11: Rock, Paper, Scissors game
+
+Day 12: File I/O, functions, modes to open a file, Practice Set
