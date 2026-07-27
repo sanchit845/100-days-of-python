@@ -1,0 +1,3 @@
+The name of the employee is Sanchit. The language of the employee is Python. The salary of the employee is 1300000. The organization of the employee is Microsoft.
+The name of the employee is Milan. The language of the employee is JavaScript. The salary of the employee is 15000000. The organization of the employee is Microsoft.
+The name of the employee is Aakash. The language of the employee is Indian. The salary of the employee is 432433243. The organization of the employee is Microsoft.
