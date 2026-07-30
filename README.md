@@ -24,4 +24,6 @@ Day 11: Rock, Paper, Scissors game
 
 Day 12: File I/O, functions, modes to open a file, Practice Set
 
-Day 13: OOPs, Class, Object, SELF parameter, 
+Day 13: OOPs, Class, Object, SELF parameter, Practice Set
+
+Day 14: Inheritance, Types of Inheritance, 
