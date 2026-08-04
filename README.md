@@ -28,4 +28,6 @@ Day 13: OOPs, Class, Object, SELF parameter, Practice Set
 
 Day 14: Inheritance, Types of Inheritance, Practice Set
 
-Day 15: The perfect guess game.
+Day 15: The Perfect Guess game.
+
+Day 16: Advanced Python features - Walrus Operator, Type Hints, Match Case, Exception Handling, Enumerate, Practice Set
