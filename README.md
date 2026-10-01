@@ -33,3 +33,5 @@ Day 15: The Perfect Guess game.
 Day 16: Advanced Python features - Walrus Operator, Type Hints, Match Case, Exception Handling, Enumerate, Practice Set
 
 Day 17: Virtual Environment, pip command functions, Practice Set
+
+Day 18: Numpy, basics ofrNumpy
