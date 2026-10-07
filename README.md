@@ -35,3 +35,5 @@ Day 16: Advanced Python features - Walrus Operator, Type Hints, Match Case, Exce
 Day 17: Virtual Environment, pip command functions, Practice Set
 
 Day 18: Numpy, basics ofrNumpy
+
+Day 19: Advanced numpy
