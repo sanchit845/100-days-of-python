@@ -37,3 +37,7 @@ Day 17: Virtual Environment, pip command functions, Practice Set
 Day 18: Numpy, basics ofrNumpy
 
 Day 19: Advanced numpy along with plotting graphs with matplotlib
+
+Day 20: Tricks for Numpy
+
+Day 21: Some practice questions for Numpy
