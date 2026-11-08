@@ -1,43 +1,47 @@
-Day 1: What is Python? What is pip? What are modules? And simple programs to kickstart python.
+Day 1: Introduction to Python, modules, pip, REPL, and writing basic Python programs.
 
-Day 2: Variables, Datatypes, Rules for defining a variable name, Operators, type function(), and type casting, input function.
+Day 2: Variables, Data Types, Naming Rules, Operators, Type Checking, Type Casting, and User Input.
 
-Day 3: Strings, How to make a string, functions of a strings, Practice Set
+Day 3: Strings, String Slicing, String Immutability, Built-in String Functions, and Practice Set.
 
-Day 4: Lists, how to make lists, functions of lists.
+Day 4: Lists, List Indexing, Slicing, Mutability, and Built-in List Methods.
 
-Day 5: Tuple, how to make a tuple, functions of tuple.
+Day 5: Tuples, Tuple Indexing, Immutability, and Built-in Tuple Methods.
 
-Day 4&5 : Practice set for Lists and Tuples.
+Day 4&5: Practice Set covering Lists and Tuples.
 
-Day 6: Dictionaries, properties of dictionaries, methods of dictionaries
+Day 6: Dictionaries, Key-Value Pairs, Dictionary Properties, and Built-in Dictionary Methods.
 
-Day 7: Sets, practice set for dictionaries and sets.
+Day 7: Sets, Set Properties, Set Operations, Built-in Set Methods, and Practice Set.
 
-Day 8: Conditional Expressions, Practice Set
+Day 8: Conditional Expressions, If-Else Statements, If-Elif-Else Ladder, Relational Operators, Logical Operators, and Practice Set.
 
-Day 9: Loops, For loop, While loop, Practice set
+Day 9: Loops, For Loop, While Loop, Range Function, and Loop-Based Practice Problems.
 
-Day 10: Functions and Recursions, Practice Set
+Day 10: Functions, Function Arguments, Return Values, Recursion, and Practice Set.
 
-Day 11: Rock, Paper, Scissors game
+Day 11: Rock-Paper-Scissors Game using Conditional Statements, Dictionaries, and Random Module.
 
-Day 12: File I/O, functions, modes to open a file, Practice Set
+Day 12: File I/O, Reading and Writing Files, File Modes, File Handling Methods, and Practice Set.
 
-Day 13: OOPs, Class, Object, SELF parameter, Practice Set
+Day 13: Object-Oriented Programming, Classes, Objects, Attributes, Methods, Constructors, and Practice Set.
 
-Day 14: Inheritance, Types of Inheritance, Practice Set
+Day 14: Inheritance, Types of Inheritance, Class Methods, Property Decorators, and Object-Oriented Programming Concepts.
 
-Day 15: The Perfect Guess game.
+Day 15: Perfect Guess Game using Random Number Generation, While Loops, and Conditional Statements.
 
-Day 16: Advanced Python features - Walrus Operator, Type Hints, Match Case, Exception Handling, Enumerate, Practice Set
+Day 16: Advanced Python Features – Walrus Operator, Type Hints, Match-Case, Exception Handling, Enumerate, and Practice Set.
 
-Day 17: Virtual Environment, pip command functions, Practice Set
+Day 17: Python Virtual Environments, Virtualenv, Pip Commands, Requirements.txt, and Package Management.
 
-Day 18: Numpy, basics ofrNumpy
+Day 18: NumPy Fundamentals – Arrays, Array Creation, Dimensions, Indexing, Slicing, and Basic Operations.
 
-Day 19: Advanced numpy along with plotting graphs with matplotlib
+Day 19: Advanced NumPy – Array Performance, Boolean Indexing, Broadcasting, and Data Visualisation with Matplotlib.
 
-Day 20: Tricks for Numpy
+Day 20: NumPy Tricks and Functions – Sorting, Reshaping, Array Manipulation, and Advanced Operations.
 
-Day 21: Some practice questions for Numpy
+Day 21: NumPy Practice Questions and Problem-Solving Exercises.
+
+Day 22: Pandas Fundamentals – Series Creation, Series Attributes, CSV Importing, and Built-in Series Methods.
+
+Day 23: Pandas DataFrames – DataFrame Creation, Attributes, Methods, Mathematical Operations, and Data Manipulation.
